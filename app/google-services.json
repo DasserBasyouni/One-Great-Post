@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "245174551705",
+    "firebase_url": "https://one-great-post.firebaseio.com",
+    "project_id": "one-great-post",
+    "storage_bucket": "one-great-post.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245174551705:android:690eb21e24fcfb5c",
+        "android_client_info": {
+          "package_name": "com.example.android.onegreatpost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245174551705-9dh05q1t17r7ejhp0itud7gkdusfiikt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA48ej61M9qViqNrOK5fY2IYkdf6pAvXsw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
