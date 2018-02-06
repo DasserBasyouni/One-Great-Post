@@ -42,7 +42,7 @@ public class LoginFragment extends Fragment {
 
         final EditText input_email = rootView.findViewById(R.id.input_email);
         final EditText input_password = rootView.findViewById(R.id.input_password);
-        EditText login_btn = rootView.findViewById(R.id.login_btn);
+        Button login_btn = rootView.findViewById(R.id.login_btn);
 
         refresh_btn.setVisibility(View.GONE);
         fab.setVisibility(View.GONE);

@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/One-Great-Post.iml" filepath="$PROJECT_DIR$/One-Great-Post.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ogp.iml" filepath="$PROJECT_DIR$/ogp.iml" />
     </modules>
   </component>
 </project>

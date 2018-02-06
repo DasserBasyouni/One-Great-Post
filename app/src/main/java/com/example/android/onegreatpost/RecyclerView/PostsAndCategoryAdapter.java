@@ -70,8 +70,9 @@ public class PostsAndCategoryAdapter extends RecyclerView.Adapter<PostsAndCatego
                     Toast.makeText(v.getContext(), "clicked", Toast.LENGTH_SHORT).show();
 
                     List<String> stings = new ArrayList<>();
-                    stings.add("test 1");
-                    stings.add("test 2");
+                    stings.add("Comparisons");
+                    stings.add("Course's Technical Questions");
+                    stings.add("Tutorials");
 
                     new MaterialDialog.Builder(v.getContext())
                             .title(name)

@@ -101,7 +101,7 @@ public class MainFragment extends Fragment implements android.app.LoaderManager.
             @Override
             public void onClick(View v) {
                 getFragmentManager().beginTransaction()
-                        .add(R.id.main_frame, new LoginFragment()).addToBackStack("WebViewFragment_tag").commit();
+                        .replace(R.id.main_frame, new LoginFragment()).addToBackStack("LoginFragment_tag").commit();
             }
         });
     }
